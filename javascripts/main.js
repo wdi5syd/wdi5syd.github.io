@@ -1,1 +1,0 @@
-(function(){window.app=window.app||{},$(document).ready(function(){return $(".student").on("click",function(){return $(this).find(".verbose").toggleClass("invisible")})})}).call(this);
